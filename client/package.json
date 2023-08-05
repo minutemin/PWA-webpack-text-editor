@@ -2,8 +2,7 @@
   "name": "JATE",
   "scripts": {
     "dev": "webpack-dev-server",
-    "build": "ng build",
-    "heroku-postbuild": "ng build --prod",
+    "build": "webpack --mode production",
     "start": "webpack --watch"
   },
   "author": "2U",
@@ -28,4 +27,3 @@
     "idb": "^6.1.2"
   }
 }
-
