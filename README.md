@@ -3,9 +3,9 @@
 
 Progressive Web Applications - Webpack - Text Editor
 
-Github:
+Github: https://github.com/minutemin/PWA-webpack-text-editor
 
-Heroku Live Deployment:
+Heroku Live Deployment: https://pwawebpacktexteditor-56b3e4888fc1.herokuapp.com/
 
 ## Table of Contents (Optional)
 
@@ -29,7 +29,9 @@ No installation needed to use the app off heroku, but if you want to download th
 
 To use the app, go to the heroku link. There the text editor will appear and you can enter your code and it will save, only if you click on another windown or outside the current DOM. The same will work with the desktop version as well, they are both saved into the indexedDB. 
 
-![alt text](assets/images/screenshot.png)
+![Jate](client/src/images/SS-PWA-JATE.1.png)
+
+![Jate](client/src/images/SS-PWA-JATE.2.png)
 
 ## License
 
